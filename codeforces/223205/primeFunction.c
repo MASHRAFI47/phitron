@@ -1,3 +1,5 @@
+//https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <math.h>
