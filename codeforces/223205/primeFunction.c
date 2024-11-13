@@ -11,7 +11,7 @@ void prime(int n) {
     }
     bool prime = true;
     int root = sqrt(n);
-    for(int i = 2; i < root; i++) {
+    for(int i = 2; i <= root; i++) {
         if(n%i == 0) {
             prime = false;
             break;
